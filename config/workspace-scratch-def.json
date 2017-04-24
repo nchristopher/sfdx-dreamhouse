@@ -1,8 +1,8 @@
 {
-  "Company": "Your Company",
+  "Company": "Nimil Company",
   "Country": "US",
-  "LastName": "lastname",
-  "Email": "yourname@example.com",
+  "LastName": "Christopher",
+  "Email": "nchristopher@salesforce.com",
   "Edition": "Developer",
   "OrgPreferences" : {
     "S1DesktopEnabled" : true
